@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">📘 Currently studying on HUFLIT</h3>
 <h3 align="center">💻 Working on KMS Technology</h3>
-<h3 align="center">✍️ Making some projects using NodeJS, PHP, , . . .</h3>
+<h3 align="center">✍️ Making some projects using NodeJS, PHP, . . .</h3>
 
 <p align="center" style="margin-bottom: 20px">
 	<img src="https://github-readme-stats.vercel.app/api?username=whoant&show_icons=true&theme=radical"></img>
@@ -10,7 +10,7 @@
 <p align="center" style="margin-bottom: 10px">
 	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
 	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
-	<img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100" />
+	<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
 	<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
 	<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
 	<br>
