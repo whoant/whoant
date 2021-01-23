@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">🔭 Currently working on THPT Trấn Biên</h3>
-<h3 align="center">🌱 Learning algorithms, making some projects using Nodejs, Go, . . .</h3>
+<h3 align="center">🔭 Currently working on KMS Technology</h3>
+<h3 align="center">🌱 Making some projects using NodeJS, PHP, , . . .</h3>
 
 <p align="center" style="margin-bottom: 20px">
-	<img src="https://github-readme-stats.vercel.app/api?username=khoakomlem&show_icons=true&theme=nightowl"></img>
+	<img src="https://github-readme-stats.vercel.app/api?username=whoant&show_icons=true&theme=radical"></img>
 	<img src="https://little.kylerconway.com/images/golang-what.gif" width="200" />
 </p>
 <p align="center" style="margin-bottom: 10px">
