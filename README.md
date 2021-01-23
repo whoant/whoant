@@ -13,5 +13,5 @@
 	<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
 	<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
 	<br>
-	<img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" />
+	<img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" width="150" />
 </p>
