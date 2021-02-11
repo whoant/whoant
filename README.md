@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Võ Văn Hoàng Tuân</h1>
 <h3 align="center">📘 Currently studying on HUFLIT</h3>
-<h3 align="center">💻 Working on KMS Technology</h3>
+<h3 align="center">💻 Working on ... Technology</h3>
 <h3 align="center">✍️ Making some projects using JavaScript, PHP, . . .</h3>
 
 <p align="center" style="margin-bottom: 20px">
