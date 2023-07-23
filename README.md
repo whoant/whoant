@@ -1,7 +1,5 @@
 
 <h1 align="center">Hello everybody 👋, I'm Võ Văn Hoàng Tuân</h1>
-<h3 align="center">📘 Currently studying on HUFLIT</h3>
-<h3 align="center">✍️ Making some projects using JavaScript, PHP, . . .</h3>
 
 <p align="center" style="margin-bottom: 20px">
 	<img src="https://github-readme-stats.vercel.app/api?username=whoant&show_icons=true&theme=radical"></img>
