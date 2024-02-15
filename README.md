@@ -1,2 +1,2 @@
 
-<h1 align="center">Hello everybody 👋, I'm whoant</h1>
+<h1 align="center">I'm whoant</h1>
